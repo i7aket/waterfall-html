@@ -160,9 +160,13 @@ button {
     
 }
 .top__text{
+    padding: 40px 20px;
     color: #ffffff;
     font-size: 28px;
     text-align: center;
+    line-height: 1.4;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
 }
 .scroll {
     width: 70px;
